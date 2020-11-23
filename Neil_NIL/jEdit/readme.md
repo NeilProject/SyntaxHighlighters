@@ -11,7 +11,7 @@ It doesn't end there however, these two lines must be added to the file "catalog
 ~~~
 
 Please note that for many languages 2 lines are used and I guess it goes without saying you shouldn't mess those definitions up. If you are really unsure (you shouldn't be coding if you are, I think) just add them as last lines 
-before </MODES>
+before \</MODES>
 
 Now stuff as collapsing and function outlining is not supported this way, but at least you'll have syntax highlighting this way, and that counts for a lot already, eh?
 
